@@ -1,0 +1,27 @@
+{
+  "name": "auan",
+  "version": "1.0.1",
+  "description": "A discord bot project.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nutchanonc/auanbot.git"
+  },
+  "author": "nutchanon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nutchanonc/auanbot/issues"
+  },
+  "homepage": "https://github.com/nutchanonc/auanbot#readme",
+  "dependencies": {
+    "base-64": "^1.0.0",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "firebase": "^8.2.10",
+    "node-fetch": "^2.6.1"
+  }
+}
