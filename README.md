@@ -1,6 +1,8 @@
 # Auan discord bot source code
 
-Don't public before being allowed.
+## Features added
+- LINE API
+
 
 ## About this project.
 To run the test, use ```npm start```.
